@@ -1,9 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 主要目的是练习如何使用react+antd+echarts 来构建一个后台管理系统的前端项目。
 
-## 系统运行
+## 本地调试
 
-  上述内容是自动生成的，留着或许有点参考。按照以下步骤本地运行项目：
+  按照以下步骤本地运行项目：
   
   #### `npm run build`
   该命令会编译打包该项目。运行结束后会在项目根目录下生成build文件夹。
@@ -16,6 +16,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
   
   #### 如何本地调试？
   修改data.json中的mock数据，需要重新运行`json-server`, 修改了源代码，则需要重新运行`npm run build`进行打包。之后刷新页面即可见到改动后的效果。
+  
+  ----
+  下面内容是由`create-react-app`初始化时自动生成的，留着或许有点参考。
   
   ## Available Scripts
   
