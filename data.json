@@ -1,0 +1,282 @@
+{
+  "config":{
+    "comment":"用于mock数据",
+    "include":["users","totalSaleStats","last7daySaleStats"]
+  },
+  "users":[
+    {
+      "id": 1,
+      "userName": "nameGenerate1",
+      "password": "2077996276",
+      "role": 7
+    },
+    {
+      "id": 3,
+      "userName": "nameGenerate3",
+      "password": "2024038696",
+      "role": 9
+    },
+    {
+      "id": 5,
+      "userName": "nameGenerate5",
+      "password": "1796903643",
+      "role": 6
+    },
+    {
+      "id": 6,
+      "userName": "nameGenerate6",
+      "password": "1285864833",
+      "role": 0
+    },
+    {
+      "id": 7,
+      "userName": "nameGenerate7",
+      "password": "466011460",
+      "role": 3
+    },
+    {
+      "id": 8,
+      "userName": "nameGenerate8",
+      "password": "1001870138",
+      "role": 0
+    },
+    {
+      "id": 9,
+      "userName": "nameGenerate9",
+      "password": "230140821",
+      "role": 1
+    },
+    {
+      "id": 10,
+      "userName": "nameGenerate10",
+      "password": "969809995",
+      "role": 7
+    },
+    {
+      "id": 11,
+      "userName": "nameGenerate11",
+      "password": "570556572",
+      "role": 9
+    },
+    {
+      "id": 12,
+      "userName": "nameGenerate12",
+      "password": "954206505",
+      "role": 4
+    },
+    {
+      "id": 13,
+      "userName": "nameGenerate13",
+      "password": "1108992347",
+      "role": 6
+    },
+    {
+      "id": 14,
+      "userName": "nameGenerate14",
+      "password": "1227251098",
+      "role": 2
+    },
+    {
+      "id": 15,
+      "userName": "nameGenerate15",
+      "password": "1729321183",
+      "role": 1
+    },
+    {
+      "id": 16,
+      "userName": "nameGenerate16",
+      "password": "648504352",
+      "role": 3
+    },
+    {
+      "id": 17,
+      "userName": "nameGenerate17",
+      "password": "223908221",
+      "role": 6
+    },
+    {
+      "id": 18,
+      "userName": "nameGenerate18",
+      "password": "1104681565",
+      "role": 5
+    },
+    {
+      "id": 19,
+      "userName": "nameGenerate19",
+      "password": "603345377",
+      "role": 6
+    },
+    {
+      "id": 20,
+      "userName": "nameGenerate20",
+      "password": "1315264413",
+      "role": 9
+    },
+    {
+      "id": 21,
+      "userName": "nameGenerate21",
+      "password": "2058216582",
+      "role": 1
+    },
+    {
+      "id": 22,
+      "userName": "nameGenerate22",
+      "password": "2119782393",
+      "role": 4
+    }
+  ],
+  "totalSaleStats":[
+      {
+        "id": 1,
+        "goodsName": "商品_1",
+        "totalSale": 899
+      },
+      {
+        "id": 2,
+        "goodsName": "商品_2",
+        "totalSale": 789
+      },
+      {
+        "id": 3,
+        "goodsName": "商品_3",
+        "totalSale": 921
+      },
+      {
+        "id": 4,
+        "goodsName": "商品_4",
+        "totalSale": 880
+      },
+      {
+        "id": 5,
+        "goodsName": "商品_5",
+        "totalSale": 30
+      },
+      {
+        "id": 6,
+        "goodsName": "商品_6",
+        "totalSale": 168
+      },
+      {
+        "id": 7,
+        "goodsName": "商品_7",
+        "totalSale": 884
+      },
+      {
+        "id": 8,
+        "goodsName": "商品_8",
+        "totalSale": 466
+      },
+      {
+        "id": 9,
+        "goodsName": "商品_9",
+        "totalSale": 288
+      },
+      {
+        "id": 10,
+        "goodsName": "商品_10",
+        "totalSale": 150
+      },
+      {
+        "id": 11,
+        "goodsName": "商品_11",
+        "totalSale": 530
+      },
+      {
+        "id": 12,
+        "goodsName": "商品_12",
+        "totalSale": 895
+      },
+      {
+        "id": 13,
+        "goodsName": "商品_13",
+        "totalSale": 966
+      },
+      {
+        "id": 14,
+        "goodsName": "商品_14",
+        "totalSale": 308
+      },
+      {
+        "id": 15,
+        "goodsName": "商品_15",
+        "totalSale": 350
+      },
+      {
+        "id": 16,
+        "goodsName": "商品_16",
+        "totalSale": 982
+      },
+      {
+        "id": 17,
+        "goodsName": "商品_17",
+        "totalSale": 78
+      },
+      {
+        "id": 18,
+        "goodsName": "商品_18",
+        "totalSale": 320
+      },
+      {
+        "id": 19,
+        "goodsName": "商品_19",
+        "totalSale": 481
+      },
+      {
+        "id": 20,
+        "goodsName": "商品_20",
+        "totalSale": 440
+      },
+      {
+        "id": 21,
+        "goodsName": "商品_21",
+        "totalSale": 464
+      },
+      {
+        "id": 22,
+        "goodsName": "商品_22",
+        "totalSale": 208
+      },
+      {
+        "id": 23,
+        "goodsName": "商品_23",
+        "totalSale": 988
+      },
+      {
+        "id": 24,
+        "goodsName": "商品_24",
+        "totalSale": 724
+      },
+      {
+        "id": 25,
+        "goodsName": "商品_25",
+        "totalSale": 72
+      }
+  ],
+  "last7daySaleStats":[
+    {
+      "id": 1,
+      "goodsName": "商品_1",
+      "sales": [120, 132, 101, 134, 90, 230, 210]
+    },
+    {
+      "id": 2,
+      "goodsName": "商品_2",
+      "sales": [220, 182, 191, 234, 290, 330, 310]
+    },
+    {
+      "id": 3,
+      "goodsName": "商品_3",
+      "sales": [150, 232, 201, 154, 190, 330, 410]
+    },
+    {
+      "id": 4,
+      "goodsName": "商品_4",
+      "sales": [320, 332, 301, 334, 390, 330, 320]
+    },
+    {
+      "id": 5,
+      "goodsName": "商品_5",
+      "sales": [820, 932, 901, 934, 1290, 1330, 1320]
+    }
+  ]
+}
